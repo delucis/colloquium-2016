@@ -1,4 +1,4 @@
-<!-- .slide: data-background="/img/mouth.gif" -->
+<!-- .slide: data-background="/img/title.gif" -->
 
 [`j.mp/cqm222`](http://j.mp/cqm222)
 ---
