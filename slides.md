@@ -23,13 +23,22 @@ Stuart Hall, ‘Museums of Modern Art and the End of History’ (2001)
 
 Moira Gatens, _Imaginary Bodies: Ethics, Power, and Corporeality_ (1996)
 ---
+<!-- .slide: data-background="/img/food-cubes.jpg" -->
+---
+<!-- .slide: data-background="/img/intensities.gif" -->
+---
 <!-- .slide: data-background="/img/matter.gif" -->
 Jane Bennett, _Vibrant Matter_ (2010)
 ![Vibrant Matter, p.23](img/vibrant-matter-quote.jpg)
 ---
-<!-- .slide: data-background="/img/food-cubes.jpg" -->
+<!-- .slide: data-background="/img/networks.png" -->
 ---
-<!-- .slide: data-background="/img/intensities.gif" -->
+<!-- .slide: data-background="/img/fairphone.png" -->
+---
+<!-- .slide: data-background="/img/altmejd.jpg" -->
+
+Note:
+David Altmejd, [_Le spectre et la main_](http://www.davidaltmejd.com/le-spectre-et-la-main-2012-gallery/) (2012)
 ---
 <!-- .slide: data-background="#000000" -->
 ---
