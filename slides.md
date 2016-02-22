@@ -1,11 +1,4 @@
 <!-- .slide: data-background="/img/mouth.gif" -->
-
-#### Colloquium
-#### 22/2
-
-Note:
-
-
 ---
 <!-- .slide: data-background="/img/bludenz.jpg" -->
 ---
