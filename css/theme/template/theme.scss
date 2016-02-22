@@ -59,6 +59,8 @@ body {
 
 .reveal h1 {
 	text-shadow: $heading1TextShadow;
+	font-weight: $heading1FontWeight;
+	line-height: $heading1LineHeight;
 }
 
 
@@ -137,11 +139,12 @@ body {
 	display: block;
 	position: relative;
 	width: 70%;
-	margin: $blockMargin auto;
-	padding: 5px;
+	margin: 1em auto;
+	padding: 1em;
 
-	font-style: italic;
-	background: rgba(255, 255, 255, 0.05);
+	font-style: normal;
+	background: $mainColor;
+	color: $backgroundColor;
 	box-shadow: 0px 0px 2px rgba(0,0,0,0.2);
 }
 	.reveal blockquote p:first-child,
@@ -161,7 +164,7 @@ body {
 
 	text-align: left;
 	font-size: 0.55em;
-	font-family: monospace;
+	font-family: $codeFont;
 	line-height: 1.2em;
 
 	word-wrap: break-word;
@@ -169,7 +172,7 @@ body {
 	box-shadow: 0px 0px 6px rgba(0,0,0,0.3);
 }
 .reveal code {
-	font-family: monospace;
+	font-family: $codeFont;
 }
 
 .reveal pre code {
@@ -178,6 +181,8 @@ body {
 	overflow: auto;
 	max-height: 400px;
 	word-wrap: normal;
+	background: #3F3F3F;
+	color: #DCDCDC;
 }
 
 .reveal table {
