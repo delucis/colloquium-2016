@@ -5,7 +5,12 @@ Note:
 
 
 ---
-![matfem](img/fb-matfem.png)
+<!-- .slide: data-background="/img/bludenz.jpg" -->
+---
+<!-- .slide: data-background="/img/fog.jpg" -->
+# FOG
+---
+![Alaimo/Hekman, Material Feminisms quote](img/fb-matfem.png)
 
 Note:
 Source: https://www.facebook.com/chris.swithinbank/posts/10101423363495555
