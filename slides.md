@@ -5,7 +5,6 @@
 <!-- .slide: data-background="/img/bludenz.jpg" -->
 ---
 <!-- .slide: data-background="/img/fog.jpg" -->
-# FOG
 ---
 ![Alaimo/Hekman, Material Feminisms quote](img/fb-matfem.png)
 
