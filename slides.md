@@ -1,4 +1,6 @@
 <!-- .slide: data-background="/img/mouth.gif" -->
+
+[`j.mp/cqm222`](http://j.mp/cqm222)
 ---
 <!-- .slide: data-background="/img/bludenz.jpg" -->
 ---
