@@ -41,6 +41,8 @@ David Altmejd, [_Le spectre et la main_](http://www.davidaltmejd.com/le-spectre-
 ---
 <!-- .slide: data-background="#000000" -->
 ---
+<!-- .slide: data-background="/img/stonybrook.jpg" -->
+---
 <!-- .slide: data-background="#000000" -->
 <iframe width="853" height="480" src="https://www.youtube-nocookie.com/embed/C1Ksoprj-rk?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
