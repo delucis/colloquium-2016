@@ -27,6 +27,7 @@ Moira Gatens, _Imaginary Bodies: Ethics, Power, and Corporeality_ (1996)
 Jane Bennett, _Vibrant Matter_ (2010)
 ![Vibrant Matter, p.23](img/vibrant-matter-quote.jpg)
 ---
+<!-- .slide: data-background="#000000" -->
 <iframe width="853" height="480" src="https://www.youtube-nocookie.com/embed/C1Ksoprj-rk?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 _union–seam_, JACK Quartet, 6 February 2016
